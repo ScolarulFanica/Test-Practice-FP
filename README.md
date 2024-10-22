@@ -1,17 +1,7 @@
-# Lab Test 1
+# Test Practice Fundamental Programming Course
 
-Solve the provided problem, using object oriented programming and C++.
+The project uses object orientated programming and C++.
 
-Input at least 5 entities in your repository.
+The application uses layered architecture and also has implemented tests and specifications.
 
-The application must use layered architecture in order for functionalities to be graded.
-
-Do not forget to add the required tests and specifications.
-
-Using existing code is forbidden, you must start your application from scratch.
-
-For function documentation you may use:
-- https://en.cppreference.com/w/
-- https://www.cplusplus.com/
-
-Time: 60 minutes.
+Credit: Babes Balyai University - Faculty of Mathematics and Informatics 
